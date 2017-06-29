@@ -40,7 +40,4 @@ public class Animal {
 	public String toString() {
 		return nome  + tipo + idade ;
 	}
-	
-	
-
 }
